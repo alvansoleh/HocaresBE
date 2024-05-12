@@ -1,8 +1,39 @@
 # Hocares Backend
 
 
+## Tutorial
 
+1. download semua yang ada diatas (hasil download akan berbentuk zip dengan nama HocaresBE-main) dan extrack file di folder yang diinginkan 
+![image](https://github.com/alvansoleh/HocaresBE/assets/134778608/9ab65148-215e-410b-9fce-0381a3caa641)
 
+2. download XAMPP Control Panel
+![image](https://github.com/alvansoleh/HocaresBE/assets/134778608/e4c8afa9-aa36-49ba-87d6-4edf3500bc1b)
+
+3. install XAMPP di folder yang anda inginkan(saya menginstall di folder D:\xampp)
+![image](https://github.com/alvansoleh/HocaresBE/assets/134778608/f89f96b4-afc9-48d9-8108-e46b3b45b204)
+
+4. buka XAMPP Control Panel
+![image](https://github.com/alvansoleh/HocaresBE/assets/134778608/a939fcbb-6aed-46bf-9428-7f6820480b6d)
+
+5. klik start pada module Apache dan MySQL
+![image](https://github.com/alvansoleh/HocaresBE/assets/134778608/c3684428-b8ca-49a6-a9bc-8c14fbc2c92d)
+
+6. buka di browser kalian(saya menggunakan chrome), search localhost/phpmyadmin/
+![image](https://github.com/alvansoleh/HocaresBE/assets/134778608/389e0448-7745-4912-ba66-de4cbdddc9e5)
+
+7. setelah itu kalian ke menu Databases kemudian buat database dengan nama db_sim_rs(untuk penamaan bebas tapi saya memilih db_sim_rs)
+![image](https://github.com/alvansoleh/HocaresBE/assets/134778608/3c941f13-7fbb-4013-bfac-d29b8f5ef296)
+
+8. setelah database di buat, masuk ke menu import dan import database yang ada dalam file HocaresBE-main, database itu bernama u718878629_sim_rs, kemudian klik import di paling bawah
+![image](https://github.com/alvansoleh/HocaresBE/assets/134778608/c056b70a-024b-4eb1-bac5-351cf1a2e3a2)
+
+9. database akan terlihat seperti ini
+![image](https://github.com/alvansoleh/HocaresBE/assets/134778608/d48ac48a-7317-4037-ab57-accb5a123841)
+
+10.kemudian tab baru pada browser anda dan ketik localhost/HocaresBE-main lalu akan halaman berikut
+![image](https://github.com/alvansoleh/HocaresBE/assets/134778608/53a8ebec-64fd-47b8-8c91-f9209f07611e)
+
+selesai untuk backend kita akan lanjut ke frontend https://github.com/alvansoleh/HocaresFE
 ## Getting started
 
 To make it easy for you to get started with GitLab, here's a list of recommended next steps.
