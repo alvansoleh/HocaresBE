@@ -1,6 +1,6 @@
 # Hocares Backend
 
-![image](https://github.com/alvansoleh/HocaresBE/assets/134778608/95b8b365-a509-43e1-9d6b-73f15d8fa4a8)
+
 
 
 ## Getting started
