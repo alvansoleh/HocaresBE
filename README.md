@@ -1,7 +1,10 @@
 # Hocares Backend
 
 
-## Tutorial
+## Panduan Instalasi dan Penggunaan
+
+
+###Langkah 1: Unduh dan Ekstrak Proyek
 
 1. download semua yang ada diatas (hasil download akan berbentuk zip dengan nama HocaresBE-main) dan extrack file di folder yang diinginkan
 
