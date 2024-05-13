@@ -6,7 +6,9 @@
 
 ### Langkah 1: Unduh dan Ekstrak Proyek
 
-1. download semua yang ada diatas (hasil download akan berbentuk zip dengan nama HocaresBE-main) dan extrack file di folder yang diinginkan
+1. Unduh proyek Hocares Backend dari repositori GitHub [di sini](https://github.com/alvansoleh/HocaresBE).
+
+2. Ekstrak file yang diunduh ke dalam folder yang diinginkan pada sistem Anda.
 
 ![image](https://github.com/alvansoleh/HocaresBE/assets/134778608/9ab65148-215e-410b-9fce-0381a3caa641)
 
