@@ -12,13 +12,16 @@
 
 ![image](https://github.com/alvansoleh/HocaresBE/assets/134778608/9ab65148-215e-410b-9fce-0381a3caa641)
 
-2. download XAMPP Control Panel
+### Langkah 2: Unduh dan Instal XAMPP Control Panel
+
+3. Unduh XAMPP Control Panel dari situs resmi [di sini](https://www.apachefriends.org/download.html).
 
 ![image](https://github.com/alvansoleh/HocaresBE/assets/134778608/e4c8afa9-aa36-49ba-87d6-4edf3500bc1b)
 
-3. install XAMPP di folder yang anda inginkan(saya menginstall di folder D:\xampp)
+5. Ikuti instruksi untuk menginstal XAMPP di folder yang Anda pilih. Sebagai contoh, di sini kita menginstal di folder D:\xampp.
 
 ![image](https://github.com/alvansoleh/HocaresBE/assets/134778608/f89f96b4-afc9-48d9-8108-e46b3b45b204)
+
 
 4. buka XAMPP Control Panel
 
