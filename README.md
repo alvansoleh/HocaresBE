@@ -3,6 +3,7 @@
 
 ## Panduan Instalasi dan Penggunaan
 
+Selamat datang di panduan instalasi dan penggunaan untuk backend Hocares. Backend ini merupakan bagian integral dari sistem informasi manajemen aset berbasis cloud yang kami kembangkan. Panduan ini akan membantu Anda dalam menginstal dan menjalankan backend secara lokal di komputer Anda. Dengan mengikuti langkah-langkah yang disediakan, Anda akan dapat melakukan konfigurasi awal, mengimpor database, dan mengakses backend untuk mengelola aset Anda secara efisien. Silakan ikuti langkah-langkah di bawah ini dengan cermat untuk memulai penggunaan backend Hocares.
 
 ### Langkah 1: Unduh dan Ekstrak Proyek
 
