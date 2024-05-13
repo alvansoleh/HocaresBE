@@ -14,40 +14,51 @@
 
 ### Langkah 2: Unduh dan Instal XAMPP Control Panel
 
-3. Unduh XAMPP Control Panel dari situs resmi [di sini](https://www.apachefriends.org/download.html).
+1. Unduh XAMPP Control Panel dari situs resmi [di sini](https://www.apachefriends.org/download.html).
 
 ![image](https://github.com/alvansoleh/HocaresBE/assets/134778608/e4c8afa9-aa36-49ba-87d6-4edf3500bc1b)
 
-5. Ikuti instruksi untuk menginstal XAMPP di folder yang Anda pilih. Sebagai contoh, di sini kita menginstal di folder D:\xampp.
+2. Ikuti instruksi untuk menginstal XAMPP di folder yang Anda pilih. Sebagai contoh, di sini kita menginstal di folder D:\xampp.
 
 ![image](https://github.com/alvansoleh/HocaresBE/assets/134778608/f89f96b4-afc9-48d9-8108-e46b3b45b204)
 
+### Langkah 3: Mulai XAMPP dan Aktifkan Modul Apache serta MySQL
 
-4. buka XAMPP Control Panel
+1. Buka XAMPP Control Panel yang telah diinstal.
 
 ![image](https://github.com/alvansoleh/HocaresBE/assets/134778608/a939fcbb-6aed-46bf-9428-7f6820480b6d)
 
-5. klik start pada module Apache dan MySQL
+2. Aktifkan modul Apache dan MySQL dengan mengklik tombol "Start".
 
 ![image](https://github.com/alvansoleh/HocaresBE/assets/134778608/c3684428-b8ca-49a6-a9bc-8c14fbc2c92d)
 
-6. buka di browser kalian(saya menggunakan chrome), search localhost/phpmyadmin/
+### Langkah 4: Akses phpMyAdmin Melalui Browser
+
+1. Buka browser Anda (contoh: Chrome) dan ketikkan localhost/phpmyadmin/ pada bar alamat. Ini akan membuka antarmuka phpMyAdmin.
 
 ![image](https://github.com/alvansoleh/HocaresBE/assets/134778608/389e0448-7745-4912-ba66-de4cbdddc9e5)
 
-7. setelah itu kalian ke menu Databases kemudian buat database dengan nama db_sim_rs(untuk penamaan bebas tapi saya memilih db_sim_rs)
+### Langkah 5: Buat Database Baru
+
+1. Di antarmuka phpMyAdmin, pilih tab "Databases" dan buat database baru dengan nama db_sim_rs atau nama bebas lainnya sesuai preferensi Anda.
 
 ![image](https://github.com/alvansoleh/HocaresBE/assets/134778608/3c941f13-7fbb-4013-bfac-d29b8f5ef296)
 
-8. setelah database di buat, masuk ke menu import dan import database yang ada dalam file HocaresBE-main, database itu bernama u718878629_sim_rs, kemudian klik import di paling bawah
+### Langkah 6: Impor Database
+
+1. Pilih tab "Import" dan pilih file database yang ada dalam proyek Hocares Backend yang telah diekstrak sebelumnya. Nama file database untuk proyek ini adalah u718878629_sim_rs.sql. Nama file database bisa berbeda saat proses pembuatannya. Klik tombol "Import" di bagian bawah halaman.
 
 ![image](https://github.com/alvansoleh/HocaresBE/assets/134778608/c056b70a-024b-4eb1-bac5-351cf1a2e3a2)
 
-9. database akan terlihat seperti ini
+### Langkah 7: Verifikasi Database
+
+1. Setelah berhasil diimpor, database Anda akan ditampilkan dalam daftar database di phpMyAdmin.
 
 ![image](https://github.com/alvansoleh/HocaresBE/assets/134778608/d48ac48a-7317-4037-ab57-accb5a123841)
 
-10.kemudian tab baru pada browser anda dan ketik localhost/HocaresBE-main lalu akan halaman berikut
+### Langkah 8: Akses Backend
+
+1. Buka tab baru pada browser Anda dan ketikkan localhost/HocaresBE-main. Ini akan membuka halaman utama backend Hocares.
 
 ![image](https://github.com/alvansoleh/HocaresBE/assets/134778608/53a8ebec-64fd-47b8-8c91-f9209f07611e)
 
