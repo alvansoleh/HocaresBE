@@ -1,4 +1,4 @@
-# Hocares [Backend]
+# HOCARES [BACK END]
 
 
 ## Panduan Instalasi dan Penggunaan
